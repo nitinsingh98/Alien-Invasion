@@ -17,7 +17,7 @@ This is a Python-based game project built using the `pygame` library. The game i
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/alien-invasion.git
+    git clone https://github.com/nitinsingh98/Alien-Invasion.git
     cd alien-invasion
     ```
 
